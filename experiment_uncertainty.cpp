@@ -39,7 +39,7 @@ double ue(double eta, double d, double t, double L, double ud, double ut, double
     b = eta * sqrt(a);
     return b;
 }
-double A(double B[], int n)//ƽ��ֵ
+double A(double B[], int n)//Ć˝žůÖľ
 {
     double a = 0;
     for (int i = 0; i < n; i++)
